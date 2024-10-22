@@ -2,7 +2,7 @@
 
 ## Repositório reservado para a disciplina de algoritmos.
 
-### Para rodar nosso código precisamos de um *compilador* que é quem vai ser responsável por tranformar nosso código em linguagem de maquinaou de baixo nível(assembly) para interagir diretamente com o hardware.
+### Para rodar nosso código precisamos de um *compilador* que é quem vai ser responsável por tranformar nosso código em linguagem de maquina ou de baixo nível(assembly) para interagir diretamente com o hardware.
 
 - Podemos baixar um compilador pelo seguinte site: [Site para Baixar o Compilador](https://sourceforge.net/projects/mingw/)
 - Baixado o compilador siga os seguintes passos:
